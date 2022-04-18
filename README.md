@@ -1,3 +1,3 @@
 # Shadowrocket小火箭在线安装
 
-https://shadowsockshelp.github.io/ios/
+http://qukemao.xyz/s.github.io/
